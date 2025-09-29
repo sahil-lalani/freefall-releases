@@ -1,3 +1,3 @@
-# ai-journal-releases
+# Journal
 
 Releases for AI journal
