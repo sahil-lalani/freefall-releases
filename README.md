@@ -1,3 +1,1 @@
-# Journal
-
-Releases for AI journal
+Releases for freefall
